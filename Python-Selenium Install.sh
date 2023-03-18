@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo run Python-Selenium SetupTools
+echo run Python-Selenium Install
 
 # Google Chromeのインストール
 echo installing Google Chrome
@@ -29,4 +29,4 @@ echo installing selenium
 sudo yum install -y python-pip
 pip install selenium
 
-echo setup completed!
+echo install completed!
